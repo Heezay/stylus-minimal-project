@@ -51,4 +51,4 @@ cargo stylus deploy \
 More options exist for sending and outputting your transaction data. See ```cargo stylus deploy --help``` for more details.
 To see provided transactions go to the [testnet](https://stylus-testnet-explorer.arbitrum.io/) and enter your program address. You would see something like this:
 
-<img src="transactions.jpg" alt="transactions" width="800px" />
+<img src="transactions.jpg" alt="transactions" width="1200px" />
